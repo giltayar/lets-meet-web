@@ -1,0 +1,52 @@
+.news img{
+    width:20vw;
+    height: 25vh;
+}
+.news p{
+    height: 15vh;
+    font-size: 20px;
+}
+.news h3{
+  color: black;
+    height: 8vh;
+}
+.news h1{
+    color: black;
+    background-color: #cccccc93;
+    font-size: 40px;
+}
+.news{
+    float: left;
+    width: 30%;
+    height: 73vh;
+    margin: 10px;
+    background-color: #cccccc93;
+    font-family: 'Shadows Into Light', cursive;
+}
+.news1{
+    background-image: url('./img_video/news4.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.news a{
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.news button{
+    margin-top: 55px;
+    width: 55%;
+    height: 5vh;
+    font-size: 15px;
+    border-radius: 10px;
+} 
+.news1 h1{
+    font-size: 60px;
+    letter-spacing: 25px;
+    background-color: #cccccc93;
+    font-family: 'Shadows Into Light', cursive;
+    margin: 10px;
+    margin-right: 90px;
+}

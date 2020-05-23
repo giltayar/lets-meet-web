@@ -1,0 +1,103 @@
+.Network input{
+    width: 60%;
+    position: relative;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background: #eee;
+    border: 0;
+    display: block;
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    font-family: Nunito;
+    font-size: 25px;
+    left: 35%;
+}
+.Network{
+    background-image: url('./img_video/aboutUs1.jpg');
+    min-height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+.Network h1{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 60px;
+}
+#users_container{
+    background-color: rgba(255, 255, 255, 0.429);
+    font-family: 'Shadows Into Light', cursive;
+    width:14%;
+    position: relative;
+    float: left;
+    margin: 30px;
+    overflow: auto;
+    height: 400px;
+    left: 400px;
+}
+#users_container li{
+    color: purple;
+    font-size: 35px;
+    font-weight: bold;
+}
+#msg_content{
+    background-color: rgba(255, 255, 255, 0.429);
+    font-family: 'Shadows Into Light', cursive;
+    height: 400px;
+    width: 45%;
+    float: left;
+    overflow: auto;
+    top: -110px;
+    position: relative;
+    left: 385px;
+}
+#msg_content li{
+    font-size: 40px;
+    color: rgb(139, 103, 37);
+    font-weight: bold;
+}
+#conteinerNetwork button{
+    font-family: 'Shadows Into Light', cursive;
+    width: 10vw;
+    height: 7vh;
+    font-size: 28px;
+    border-radius: 10px;
+    top: 470px;
+    position: relative;
+    right: 150px;
+}
+#conteinerNetwork ::placeholder{
+    color: rgb(197, 80, 80);
+    font-size: 35px;
+    font-weight: bold;
+}
+#conteinerNetwork ul{
+    width: 20px;
+    background-color: rgba(255, 255, 255, 0.429);
+}
+#conteinerNetwork input{
+    text-align: center;
+    margin-left: -15vw;
+}
+#message{
+    color: black;
+    border-top: 5px solid gray;
+    top: 450px;
+    left: 100px;
+    font-size: 30px;
+    font-weight: bold;
+}
+li{
+    font-size: 25px;
+    list-style-type: none;
+}
+#msg_user_name{
+    font-size: 30px;
+    color: rgb(110, 110, 241);
+    margin: 10px;
+    font-weight: bold;
+}
+#msg_from_user{
+    font-size: 35px;
+    color: green;
+    margin: 10px;
+    font-weight: bold;
+    }

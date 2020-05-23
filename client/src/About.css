@@ -1,0 +1,46 @@
+#top_information_container{
+    display: flex;
+    text-align: center;
+}  
+.lily_info{
+    width: 40%;
+    margin-left: 40px;
+    margin-right: 200px;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.429);
+}
+.lily_info img{
+    width: 40%;
+    margin-top: 5px;   
+}
+.tal_info{
+    margin-right: 40px;
+    width: 40%;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.429);
+}
+.tal_info img{
+    width: 40%;
+    margin-top: 5px;
+}
+.bottom_general_info{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.429);
+    width: 92vw;
+}
+.about_us_container{
+    background-image: url('./img_video/aboutUs3.jpg');
+    background-size:cover ;
+    width: 100%;
+    height: 100%;
+    font-family: 'Shadows Into Light', cursive;
+}
+.about_us_container h1{
+    font-size: 100px;
+    font-weight: 700;
+    letter-spacing: 15px;
+    font-family: 'Shadows Into Light', cursive;
+    margin: 30px;
+}

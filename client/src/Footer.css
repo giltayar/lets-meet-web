@@ -1,0 +1,10 @@
+.footer{
+    min-height: 10vh;
+    font-size: 25px;   
+}
+.all_footer{
+margin-left: 55vw;
+position: relative;top: -35px;
+width: 7vw;
+z-index: -2;
+}

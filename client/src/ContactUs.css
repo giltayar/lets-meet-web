@@ -1,0 +1,45 @@
+.contactUs p{
+    width: 70%;
+    position: relative;
+    left: 15%;
+    font-size: 25px;
+}
+.contactUs form{
+    width: 40%;
+    position: relative;
+    left: 30%
+}
+.contactUs textarea{
+    width: 80%;
+    height: 30vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.contactUs input{
+    margin: 5px;
+    width: 40%;
+    position: relative;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background: #eee;
+    border: 0;
+    display: block;
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    font-family: Nunito;
+    font-size: 16px;
+    left: 35%;
+}
+.contactUs button{
+    width: 20%;
+    position: relative;
+    background: #575ed8;
+    color: #fff;
+    font-size: 18px;
+    border: 0;
+    padding: 12px 0;
+    border-radius: 0 0 2px 2px;
+}
+.contactUs button:hover{
+    background:rgb(38, 82, 139);
+}
